@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Marwadi University</title>
+
+    <!-- Bootstrap CSS -->
+    <link
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+        rel="stylesheet">
+</head>
+
+<body class="bg-light">
+
+    <!-- ================= HEADER ================= -->
+
+    <header class="bg-warning text-white text-center py-4">
+
+        <div class="container">
+
+            <h1 class="fw-bold">
+                Marwadi University
+            </h1>
+
+            <h4>
+                Department of Computer Engineering
+            </h4>
+
+        </div>
+
+    </header>
+
+
+    <!-- ================= NAVBAR ================= -->
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+        <div class="container">
+
+            <a class="navbar-brand fw-bold" href="#">
+                MU
+            </a>
+
+            <button class="navbar-toggler"
+                    type="button"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#menu">
+
+                <span class="navbar-toggler-icon"></span>
+
+            </button>
+
+
+            <div class="collapse navbar-collapse"
+                 id="menu">
+
+                <ul class="navbar-nav mx-auto">
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="#vision">
+                            Vision
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="#mission">
+                            Mission
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="#pso">
+                            PSO
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="#courses">
+                            Courses
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="#gallery">
+                            Gallery
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="#recruiters">
+                            Recruiters
+                        </a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+    </nav>
+
+
+    <!-- ================= MAIN ================= -->
+
+    <main class="container my-5">
+
+
+        <!-- ===== VISION & MISSION ===== -->
+
+        <div class="row g-4">
+
+
+            <!-- Vision -->
+
+            <div class="col-lg-6 col-md-6 col-12">
+
+                <div id="vision"
+                     class="card h-100 shadow">
+
+                    <div class="card-header bg-primary text-white">
+
+                        <h3 class="mb-0">
+                            Vision
+                        </h3>
+
+                    </div>
+
+                    <div class="card-body">
+
+                        <p class="card-text">
+
+                            To impart quality technical education
+                            through research, innovation, and teamwork
+                            for creating professionally superior and
+                            ethically strong manpower that meets the
+                            global challenges of engineering industries
+                            and research organizations.
+
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- Mission -->
+
+            <div class="col-lg-6 col-md-6 col-12">
+
+                <div id="mission"
+                     class="card h-100 shadow">
+
+                    <div class="card-header bg-success text-white">
+
+                        <h3 class="mb-0">
+                            Mission
+                        </h3>
+
+                    </div>
+
+                    <div class="card-body">
+
+                        <ul class="list-group list-group-flush">
+
+                            <li class="list-group-item">
+                                Maintain state-of-the-art ICT enabled
+                                teaching and learning methodologies.
+                            </li>
+
+                            <li class="list-group-item">
+                                Enable graduates to become digital age
+                                literates, innovators and professionals.
+                            </li>
+
+                            <li class="list-group-item">
+                                Provide skills, knowledge and attitudes
+                                for success as engineers and leaders.
+                            </li>
+
+                            <li class="list-group-item">
+                                Prepare graduates for lifelong learning
+                                and career challenges.
+                            </li>
+
+                        </ul>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- ===== PSO & COURSES ===== -->
+
+        <div class="row g-4 mt-1">
+
+
+            <!-- PSO -->
+
+            <div class="col-lg-6 col-md-6 col-12">
+
+                <div id="pso"
+                     class="card h-100 shadow">
+
+                    <div class="card-header bg-warning">
+
+                        <h3 class="mb-0">
+                            Program Specific Outcomes
+                        </h3>
+
+                    </div>
+
+                    <div class="card-body">
+
+                        <ol class="list-group list-group-numbered">
+
+                            <li class="list-group-item">
+                                Apply knowledge and competence in the
+                                design and development of computer-based
+                                systems.
+                            </li>
+
+                            <li class="list-group-item">
+                                Adapt to emerging technological
+                                advancements including Cybersecurity,
+                                AR/VR and IoT.
+                            </li>
+
+                        </ol>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- Courses -->
+
+            <div class="col-lg-6 col-md-6 col-12">
+
+                <div id="courses"
+                     class="card h-100 shadow">
+
+                    <div class="card-header bg-info text-white">
+
+                        <h3 class="mb-0">
+                            Courses Offered
+                        </h3>
+
+                    </div>
+
+                    <div class="card-body">
+
+                        <div class="row g-3">
+
+                            <div class="col-sm-6">
+
+                                <div class="border rounded p-3 text-center">
+                                    B.Tech in Computer Engineering
+                                </div>
+
+                            </div>
+
+                            <div class="col-sm-6">
+
+                                <div class="border rounded p-3 text-center">
+                                    B.Tech in Cyber Security
+                                </div>
+
+                            </div>
+
+                            <div class="col-sm-6">
+
+                                <div class="border rounded p-3 text-center">
+                                    M.Tech in Computer Engineering
+                                </div>
+
+                            </div>
+
+                            <div class="col-sm-6">
+
+                                <div class="border rounded p-3 text-center">
+                                    Ph.D. in Computer Science
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- ===== IMAGE GALLERY ===== -->
+
+        <section id="gallery" class="mt-5">
+
+            <h2 class="text-center mb-4">
+                Image Gallery of Events
+            </h2>
+
+
+            <div class="row g-4">
+
+
+                <div class="col-lg-4 col-md-6 col-12">
+
+                    <div class="card shadow h-100">
+
+                        <img src="event1.jpg"
+                             class="card-img-top img-fluid"
+                             alt="College Event">
+
+                        <div class="card-body text-center">
+
+                            <h5>
+                                Technical Event
+                            </h5>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-12">
+
+                    <div class="card shadow h-100">
+
+                        <img src="event2.jpg"
+                             class="card-img-top img-fluid"
+                             alt="College Event">
+
+                        <div class="card-body text-center">
+
+                            <h5>
+                                Cultural Event
+                            </h5>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-12">
+
+                    <div class="card shadow h-100">
+
+                        <img src="event3.jpg"
+                             class="card-img-top img-fluid"
+                             alt="College Event">
+
+                        <div class="card-body text-center">
+
+                            <h5>
+                                Annual Function
+                            </h5>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+            </div>
+
+        </section>
+
+
+        <!-- ===== TOP RECRUITERS ===== -->
+
+        <section id="recruiters" class="mt-5">
+
+            <h2 class="text-center mb-4">
+                Top Recruiters
+            </h2>
+
+
+            <div class="row g-3">
+
+
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+
+                    <div class="card text-center shadow">
+
+                        <div class="card-body">
+
+                            <h5 class="card-title">
+                                TCS
+                            </h5>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+
+                    <div class="card text-center shadow">
+
+                        <div class="card-body">
+
+                            <h5 class="card-title">
+                                Infosys
+                            </h5>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+
+                    <div class="card text-center shadow">
+
+                        <div class="card-body">
+
+                            <h5 class="card-title">
+                                Wipro
+                            </h5>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+
+                    <div class="card text-center shadow">
+
+                        <div class="card-body">
+
+                            <h5 class="card-title">
+                                Capgemini
+                            </h5>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+
+                    <div class="card text-center shadow">
+
+                        <div class="card-body">
+
+                            <h5 class="card-title">
+                                Cognizant
+                            </h5>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+
+                    <div class="card text-center shadow">
+
+                        <div class="card-body">
+
+                            <h5 class="card-title">
+                                LTIMindtree
+                            </h5>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+
+                    <div class="card text-center shadow">
+
+                        <div class="card-body">
+
+                            <h5 class="card-title">
+                                Reliance Industries
+                            </h5>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <!-- ================= FOOTER ================= -->
+
+    <footer class="bg-dark text-white text-center py-3">
+
+        <p class="mb-0">
+            &copy; 2026 Marwadi University -
+            Department of Computer Engineering
+        </p>
+
+    </footer>
+
+
+    <!-- Bootstrap JavaScript -->
+
+    <script
+        src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js">
+    </script>
+
+</body>
+</html>
