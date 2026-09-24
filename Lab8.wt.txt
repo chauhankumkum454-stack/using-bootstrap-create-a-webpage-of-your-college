@@ -323,7 +323,7 @@
 
                     <div class="card shadow h-100">
 
-                        <img src="event1.jpg"
+                        <img src="spiderman.jpg"
                              class="card-img-top img-fluid"
                              alt="College Event">
 
@@ -344,7 +344,7 @@
 
                     <div class="card shadow h-100">
 
-                        <img src="event2.jpg"
+                        <img src="nature.jpg"
                              class="card-img-top img-fluid"
                              alt="College Event">
 
@@ -365,7 +365,7 @@
 
                     <div class="card shadow h-100">
 
-                        <img src="event3.jpg"
+                        <img src="yay.jpg"
                              class="card-img-top img-fluid"
                              alt="College Event">
 
